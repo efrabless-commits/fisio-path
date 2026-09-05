@@ -1,0 +1,26 @@
+{
+  "name": "FisioConsulta",
+  "short_name": "FisioConsulta",
+  "description": "Evaluación fisioterapéutica, diagnóstico diferencial y plan de tratamiento. Funciona sin conexión.",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f1e4",
+  "theme_color": "#0d5c56",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
